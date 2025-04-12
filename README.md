@@ -6,3 +6,4 @@ open file text2ids.py and change text you want to convert to ids
 
 run:
 python text2ids.py 
+# text2ids
