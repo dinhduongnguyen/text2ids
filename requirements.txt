@@ -1,0 +1,3 @@
+underthesea
+fasttext
+huggingface_hub
